@@ -1,1 +1,5 @@
-/// <reference types="vite/client" />
+
+export interface taskN {
+    taskName: string;
+    deadline: number;
+  }
