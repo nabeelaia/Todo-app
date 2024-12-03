@@ -11,7 +11,11 @@ const App: FC = () => {
   useEffect(() => {
     const savedTodoList = localStorage.getItem('todoList');
     if (savedTodoList) {
-      setTodoList(JSON.parse(savedTodoList));
+      try {
+        setTodoList(JSON.parse(savedTodoList));
+      } catch (error) {
+        console.error('Error parsing todoList from localStorage:', error);
+      }
     }
   }, []);
 
