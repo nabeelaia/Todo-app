@@ -23,11 +23,11 @@ A simple To-Do List web application built with React and Vite. This app allows u
    ```bash
    git clone https://github.com/yourusername/todo-app.git
 
-##How to run
+How to run
 - **nmp run dev**: to run the code and expect output
 - **nmp test**: to run the test cases
 
-##Test Cases
+Test Cases
 - **Adding a task**
 - **Removing a task**
 - **Editing a task**
