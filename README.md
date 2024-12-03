@@ -1,6 +1,7 @@
-# To-Do App
+# ⚡️ To-Do App ⚡️
 
-A simple To-Do List web application built with React and Vite. This app allows users to add, edit, remove, and mark tasks as done. It also uses Local Storage to persist tasks between page reloads.
+A simple To-Do List web application built with React, Vite, and TypeScript. This app allows users to add, edit, remove, and mark tasks as done. The tasks are persisted in **Local Storage** so they remain even after page reloads.
+
 
 ## Features
 
@@ -24,8 +25,8 @@ A simple To-Do List web application built with React and Vite. This app allows u
    git clone https://github.com/yourusername/todo-app.git
 
 How to run
-- **nmp run dev**: to run the code and expect output
-- **nmp test**: to run the test cases
+- **⚡️npm run dev⚡️**: to run the code and expect output
+- **⚡️npm test⚡️**: to run the test cases
 
 Test Cases
 - **Adding a task**
