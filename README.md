@@ -24,7 +24,7 @@ A simple To-Do List web application built with React, Vite, and TypeScript. This
    ```bash
    git clone https://github.com/yourusername/todo-app.git
 
-   ### Prerequisites
+  Prerequisites
 
 Before running the project, ensure you have Git installed on your machine.
 
