@@ -41,10 +41,12 @@ Before running the project, ensure you have Git installed on your machine.
 2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository.git
-
+   
+### Breakdown of Commands:
 How to run
-- **⚡️npm run dev⚡️**: to run the code and expect output
-- **⚡️npm test⚡️**: to run the test cases
+- **⚡️npm run dev⚡️**: This will run the application in development mode, typically starting a server or displaying the main output in the terminal.
+- **⚡️npm test⚡️**: This will execute the test suite defined for your project, running all test cases and reporting the results.
+
 
 Test Cases
 - **Adding a task**
