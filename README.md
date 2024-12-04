@@ -24,6 +24,24 @@ A simple To-Do List web application built with React, Vite, and TypeScript. This
    ```bash
    git clone https://github.com/yourusername/todo-app.git
 
+   ### Prerequisites
+
+Before running the project, ensure you have Git installed on your machine.
+
+- **Windows:** [Download Git for Windows](https://git-scm.com/download/win)
+- **macOS:** Git is pre-installed. If needed, install using Homebrew: `brew install git`
+- **Linux:** Install Git via your package manager:
+  - For Ubuntu/Debian: `sudo apt install git`
+  - For Fedora: `sudo dnf install git`
+
+### Cloning the Repository
+
+#### For Windows:
+1. Install Git and open **Git Bash**.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+
 How to run
 - **⚡️npm run dev⚡️**: to run the code and expect output
 - **⚡️npm test⚡️**: to run the test cases
